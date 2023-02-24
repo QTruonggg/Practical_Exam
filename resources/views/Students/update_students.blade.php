@@ -61,7 +61,7 @@
                                     </div>
                                     <div class="form-group mt-1 mb-1">
                                         <label for="inputName" class="form-label mb-1">Phone:</label>
-                                        <input type="number" id="telephone" name="telephone" value="{{$student_detail->telephone}}" class="form-control" placeholder="Nhập số điện thoại">
+                                        <input type="text" id="telephone" name="telephone" value="{{$student_detail->telephone}}" class="form-control" placeholder="Nhập số điện thoại">
                                     </div>
                                     
                                 </div>
